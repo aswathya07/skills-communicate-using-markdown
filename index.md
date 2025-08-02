@@ -15,4 +15,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Write a blog
+- [x] Complete 300 levels on Typing Club
+- [ ] Complete level 3 on mulearn
 
